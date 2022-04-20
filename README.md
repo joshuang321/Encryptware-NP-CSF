@@ -8,6 +8,5 @@ Download the vbscript 'csfmalware.vbs'.
 Run command prompt in administrator.  
 Type 'WScript pathname' into command prompt with vbscript pathname as pathname to run the vbscript.
 # What it current do:
-Encrypts the Desktop files.  
-Uses Window Scripting Host to encrypt the user's files.  
+Uses Window Scripting Host to encrypt the user's Desktop files.  
 For Demostration purposes only.
