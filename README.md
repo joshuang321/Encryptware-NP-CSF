@@ -1,6 +1,6 @@
-# encryptware_ngee_ann_poly_csf
-assignment 2 showcase
-# Encryption malware
+# Encryptware-NP-CSF
+Assignment 2 Showcase
+# Encryption Malware
 If you are using the malware, note that it is your own responsibility to use it maliciously and you will be responsible for the damage cause to yourself/others.
 # How to run the vbscript
 Make sure you are running the vbscript in a VM machine on Windows.  
